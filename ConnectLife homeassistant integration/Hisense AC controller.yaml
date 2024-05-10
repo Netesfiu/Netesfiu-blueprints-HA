@@ -1,7 +1,0 @@
-blueprint:
-    name: Hisense AC controller
-    Description: |-
-      This automation is capable of controlling your Hisense AC by using the Google assistant.
-      For the installation steps, check the github repo
-    domain: automation
-    source_url:
